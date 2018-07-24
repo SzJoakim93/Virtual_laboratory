@@ -1,0 +1,22 @@
+height_168
+weight_59
+bmi_20.904196
+blood_pressure_115_75
+pulse_72
+bloodsugar_7
+*
+*
+*
+*
+*
+*
+*
+0 0
+hemoglobin_0_g/pl
+hematokrit_0.0_prc
+mcv_99_fl
+mch_0_pg
+mchc_0_g/pl
+leukocyte_0.0_g/pl
+platelet_0_g/pl
+platelet_400_g/pl

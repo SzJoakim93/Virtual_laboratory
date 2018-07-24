@@ -1,0 +1,5 @@
+4
+Textures/body.bmp
+Textures/skull.bmp
+Textures/hands.bmp
+Textures/feet.bmp

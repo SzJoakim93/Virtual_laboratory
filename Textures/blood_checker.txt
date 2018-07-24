@@ -1,0 +1,5 @@
+4
+Textures/blood_checker.bmp
+Textures/black.bmp
+Textures/tex3.bmp
+Textures/gray.bmp

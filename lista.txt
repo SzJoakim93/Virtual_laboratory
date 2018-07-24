@@ -1,0 +1,40 @@
+fõ monitor:
+-chat ablak
+-váltás betegek között
+-új beteg létrehozása
+
+nagy monitor:
+-EKG
+-vérkép
+-részletes leírás a vérképrõl
+-szív és érrendszer
+
+bal alsó:
+-állandóan szedett gyógyszerek listája
+-receptek listája
+-bejelentett betegek listája
+
+bal felsõ:
+-röntgen (test csontozat)
+-röntgen (koponya)
+-röntgen (kéz)
+-röntgen (láb)
+
+jobb alsó:
+-alap adatok
+-vérnyomás napló
+-diabétesz napló
+
+jobb felsõ:
+-korábbi betegségek listája
+-krónikus betegségek listája pl. magas vérnyomás
+-allargiás-e valamire
+
+
+billentyûparancsok:
+-alt: kurzor feloldása
+-shift: átváltás a páciens és az orvosi rendelõ között
+-esc: kilépés
+
+kérdõív:
+https://docs.google.com/forms/d/e/1FAIpQLScpGISyKBFrxvO5PDTn6K3w9m_OPZrzZDzRqH3Yy4Uu1939Og/viewform

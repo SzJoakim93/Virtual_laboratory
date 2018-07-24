@@ -1,0 +1,5 @@
+4
+Textures/bedsheet1.bmp
+Textures/bedsheet1.bmp
+Textures/tex3.bmp
+Textures/wood1.bmp

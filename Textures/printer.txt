@@ -1,0 +1,6 @@
+5
+Textures/printer2.bmp
+Textures/white.bmp
+Textures/gray.bmp
+Textures/printer1.bmp
+Textures/gray.bmp

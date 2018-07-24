@@ -1,0 +1,4 @@
+3
+Textures/textil1.bmp
+Textures/black.bmp
+Textures/chrome.bmp

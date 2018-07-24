@@ -1,0 +1,23 @@
+height_0
+weight_0
+bmi_0
+blood_pressure_0/p0
+pulse_0
+bloodsugar_0
+*
+*
+*
+*
+*
+*
+robitusin
+*
+0 0
+hemoglobin_0_g/pl
+hematokrit_0.0_%
+mcv_0_fl
+mch_0_pg
+mchc_0_g/pl
+leukocyte_0.0_g/pl
+platelet_0_g/pl
+platelet_400_g/pl

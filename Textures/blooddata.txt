@@ -1,0 +1,6 @@
+5
+Textures/ekg1.bmp
+Textures/ekg2.bmp
+Textures/ekg3.bmp
+Textures/blood1.bmp
+Textures/blood2.bmp
